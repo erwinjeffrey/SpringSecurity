@@ -7,5 +7,6 @@
 </head>
 <body>
    Welcome Aliens
+   <<a href="/logout">Logout</a>
 </body>
 </html>
